@@ -1,0 +1,1 @@
+This is the content of tests/test_files/text/file1.txtThis is the content of tests/test_files/text/file2.txtThis is the content of tests/test_files/text/file3.txt
